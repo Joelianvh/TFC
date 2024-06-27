@@ -54,6 +54,11 @@ h1{
     transition: opacity 3s ease, height 2s ease;
 }
 
+.p1p1{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
 .p1p2{
     background-image: url(images/backgrounds/1.5x/OutsideDoor.png);
 }
